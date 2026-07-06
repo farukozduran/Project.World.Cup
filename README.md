@@ -23,3 +23,54 @@ Proje genel hatlarıyla üç ana katmandan oluşmaktadır:
 *   C# & .NET
 *   (Buraya kullanılan veritabanı teknolojisi örn. Entity Framework Core, SQL Server eklenebilir)
 *   (Buraya kullanılan UI teknolojisi örn. WPF, WinForms, ASP.NET Core eklenebilir)
+
+*   ## 📸 Ekran Görüntüleri (Screenshots)
+
+Dünya Kupası yönetim sisteminin arayüzüne ve işlevlerine ait ekran görüntülerine aşağıdan ulaşabilirsiniz:
+
+### 🌍 Ana Sayfa (Genel Bakış)
+![Ana Sayfa](assets/screenshots/anasayfa.png)
+
+---
+
+### 🏆 Turnuva ve Karşılaşma Listeleri
+Sistemde yer alan turnuvaların, takımların ve eşleşmelerin görüntülendiği temel listeleme ekranları:
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <strong>Turnuvalar</strong><br />
+      <img src="assets/screenshots/turnuvalar.png" alt="Turnuvalar Listesi" width="100%"/>
+    </td>
+    <td width="33%" align="center">
+      <strong>Takımlar</strong><br />
+      <img src="assets/screenshots/teams.png" alt="Takımlar Listesi" width="100%"/>
+    </td>
+    <td width="33%" align="center">
+      <strong>Maçlar</strong><br />
+      <img src="assets/screenshots/matches.png" alt="Maçlar Listesi" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ İşlemler ve Detay Ekranları
+Yeni kayıt oluşturma, detaylı inceleme ve sistem içi dinamik arama ekranları:
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <strong>Yeni Takım Ekle</strong><br />
+      <img src="assets/screenshots/create_team.png" alt="Takım Ekleme Ekranı" width="100%"/>
+    </td>
+    <td width="33%" align="center">
+      <strong>Maç Detayları</strong><br />
+      <img src="assets/screenshots/match_details.png" alt="Maç Detay Ekranı" width="100%"/>
+    </td>
+    <td width="33%" align="center">
+      <strong>Dinamik Arama</strong><br />
+      <img src="assets/screenshots/dynamic_search.png" alt="Dinamik Arama Modülü" width="100%"/>
+    </td>
+  </tr>
+</table>
